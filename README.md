@@ -1,4 +1,4 @@
-<h3 align="center">Connect With Me 👇 </h3>
+<!-- <h3 align="center">Connect With Me 👇 </h3> -->
 <p align="center">
 	<a href="https://www.dev.to/thehassantahir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
 	<a href="https://www.dribbble.com/thehassantahir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>
